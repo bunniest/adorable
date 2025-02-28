@@ -1,5 +1,5 @@
 title: "cat blog!!"
-baseURL: 'https://neopost.neocities.org'
+baseURL: 'adorable.blog'
 languageCode: 'en-us'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
 theme: "neopost"
@@ -32,7 +32,7 @@ permalinks:
   posts: "/posts/:filename/"
 
 params:
-  theme: "light-blue" # light-blue, dark-blue, light-green, light-yellow, light-pink, light-purple
+  theme: "dark-blue" # light-blue, dark-blue, light-green, light-yellow, light-pink, light-purple
   favicon: "/favicon.ico"
   posts-per-page: 1 # defaults to 5 if not defined
   toc-auto-numbering: false
